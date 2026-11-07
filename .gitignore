@@ -8,7 +8,7 @@ venv/
 .env
 
 # Raw/private data
-data/raw/*.csv
+# data/raw/*.csv
 
 # Logs
 *.log
